@@ -1,0 +1,1 @@
+$(window).bind("load",function(){$("#popuppuasa18").animate({top:"25%"},1e3),$("a.close-popup").click(function(){return $(this).parent().fadeOut(1e3),!1})});
